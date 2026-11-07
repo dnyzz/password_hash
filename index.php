@@ -7,6 +7,7 @@ session_start();
 <head>
     <meta charset="UTF-8">
     <title>Bienvenido</title>
+    <link rel="stylesheet" href="estilos.css">
 </head>
 <body>
     <h1>Sistema de Registro y Login</h1>
